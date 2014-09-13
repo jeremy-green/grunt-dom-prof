@@ -1,23 +1,23 @@
 {
   "name": "grunt-dom-prof",
   "description": "Grunt plugin for dom-prof",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jeremy/grunt-dom-prof",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jeremy-green/grunt-dom-prof",
   "author": {
     "name": "Jeremy Green",
     "email": "mutatedcreativity@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jeremy/grunt-dom-prof.git"
+    "url": "git://github.com/jeremy-green/grunt-dom-prof.git"
   },
   "bugs": {
-    "url": "https://github.com/jeremy/grunt-dom-prof/issues"
+    "url": "https://github.com/jeremy-green/grunt-dom-prof/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jeremy/grunt-dom-prof/blob/master/LICENSE-MIT"
+      "url": "https://github.com/jeremy-green/grunt-dom-prof/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
