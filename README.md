@@ -1,6 +1,6 @@
 # grunt-dom-prof
 
-> Grunt plugin for dom-prof
+> Grunt plugin for [dom-prof](https://github.com/josh/dom-prof). I mainly created this to do some profiling reports to stuff into Jenkins. That's why the CSV is so sparse. Feel free to contribute any other ideas on how to deal with the output.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.4`
